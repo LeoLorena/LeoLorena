@@ -3,7 +3,7 @@
 
 - 🔭 Hoje eu trabalho com Salesforce (Developer)
 - 🌱 Estudando - Salesforce, Java e Js 
-- 😄 Pronome: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/LeoLorena">
