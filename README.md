@@ -1,6 +1,6 @@
 ### Opa! Eu sou o Leonardo Lorena
-- 🔭 Hoje eu trabalho com QA (Testes)
-- 🌱 Estudando - Salesforce, Java e Js 
+- 🔭 Hoje eu trabalho com Desenvolvimento Salesforce
+- 🌱 Estudando - Salesforce, IA 
 - Tenho foco em aprender na área de desenvolvimento! Cada oportunidade é única.
 ##
 <div align="center">
